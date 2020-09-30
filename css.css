@@ -1,0 +1,149 @@
+
+
+ h1 {
+ 	background-color: #FF3399;
+        color:black;
+        font-size:28px;
+        font-weight: 800;
+    text-align:center;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+	font-family:Comic Sans MS;
+
+}
+body{
+	background-color: #9999FF;
+    border:6px  solid #6666FF;
+	background-image:url("");
+	background-attachment: fixed;
+	width: auto;
+}
+#Datos{
+	text-align: justify;
+	align-content: center;
+	font-size: 16px;
+	font-family:Comic Sans MS; 
+	padding: 20px;
+	font-weight: 400px;
+}
+
+.menu a{
+	background-color:  #c68ae3;
+	list-style: none;
+	display: inline-block;
+	padding: 10px 90px;
+}
+.menu a:hover{
+	transform: scale(1,1);
+	background-color: #AFEEEE;
+}
+.menu a{
+	color:black;
+	font-family: Segoe UI Semibold;
+	font-size: 24px;
+	}
+
+h2{
+text-align: center;
+	color:#FFFFF0;
+	font-family:Segoe UI Semibold;
+	background-color:#33CCFF
+
+}
+h4{
+	text-align: justify;
+	color:black;
+	font-family: Bahnschrift SemiBold
+}
+h3{
+	text-align:center;
+	color:#000000;
+	font-family:Bahnschrift SemiBold;
+}
+img{
+	align-content:center;
+}
+  p {
+ font-size:18px;
+ color:black;
+text-align:justify;
+font-family:Comic Sans MS;
+      }
+      a{
+      	font-size:24px;
+ color:black;
+text-align:justify;
+font-family:Bahnschrift SemiBold;	
+      }
+      li{
+      	text-align:justify;
+	color:black;
+	font-family:Segoe UI Semibold;
+	font-size: 20px;
+      }
+#Tel{
+	color: black;
+	font-size: 30px;
+}
+#Domicilio{
+	color: black;
+	font-size: 30px;
+}
+#email{
+	color:black;
+	font-size: 30px;
+}
+#FechaNac{
+	color: black;
+	font-size: 30px;
+}
+#LugarNac{
+	color: black;
+	font-size: 30px;
+}
+#Face{
+	color: blue;
+	font-size: 30px;
+}
+#insta{
+	color:purple;
+	font-size: 30px;
+}
+#whats{
+	color;green;
+	font-size: 30px;
+}
+img{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 4px solid #FF66CC;
+
+}
+#audio{
+background-color:#ADD8E6; 
+width:400px;
+ height:315;
+}
+#intereses{
+font-size:18px;
+ color:black;
+text-align:justify;
+font-family:Comic Sans MS;
+}
+th{
+	font-family: Segoe UI Semibold;
+	font-size: 24px;
+    align-content: center;
+    color:#F0FFFF;
+}
+td{
+	font-family: Bahnschrift SemiBold;
+	font-size: 20px;
+	width: 450px;
+	height: 100px;
+	text-align: center;
+	align-content:center;
+	border: 3px solid #BA55D3;
+	background-color: #DDA0DD;
+}
